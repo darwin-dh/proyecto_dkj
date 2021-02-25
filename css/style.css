@@ -1,0 +1,38 @@
+header {
+	background: #1D87D8;
+	color: #fff;
+	text-align: center;
+	padding: 50px 0;
+	height: 400px;
+
+	top: 0;
+	width: 100%;
+}
+header .title{
+    font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+
+}
+main {
+max-width: 1000px;
+margin: auto;
+    
+}
+main .foto{
+    position: relative;
+    top:-250px;
+    width: 50%;
+    margin: auto;
+
+
+
+}
+main .foto img{
+width: 100%;
+margin: auto;
+
+
+
+}
+
+
